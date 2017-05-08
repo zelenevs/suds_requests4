@@ -1,5 +1,7 @@
-suds_requests
+suds_requests3
 =============
+
+Simple port of the original `suds_requests <https://github.com/armooo/suds_requests>` to python 3. All API is the same.
 
 suds_requests is a suds transport implemented with requests. This lets you use
 all of the goodness of requests (connection pooling, simple auth, etc.) along
