@@ -11,5 +11,5 @@ setup(
     py_modules=['suds_requests'],
     install_requires=['requests', 'suds-py3'],
     license='MIT',
-    url='https://github.com/crosal-research/suds_requests3',
+    url='https://github.com/genusistimelord/suds_requests4',
 )
