@@ -9,7 +9,7 @@ setup(
     author='Jason Michalski',
     author_email='jmrosal@crosal-research.com',
     py_modules=['suds_requests'],
-    install_requires=['requests', 'suds-py3'],
+    install_requires=['requests', 'suds-community'],
     license='MIT',
     url='https://github.com/genusistimelord/suds_requests4',
 	python_requires='>=3.7',
